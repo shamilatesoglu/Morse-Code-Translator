@@ -1,0 +1,15 @@
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Debug\Morse Translator - Classic.exe.config
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Debug\Morse Translator - Classic.exe
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Debug\Morse Translator - Classic.pdb
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.csprojAssemblyReference.cache
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse_Translator___Classic.Properties.Resources.resources
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.csproj.GenerateResource.cache
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.csproj.CoreCompileInputs.cache
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.exe
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.pdb
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse_Translator___Classic.MainForm.resources
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse_Translator___Classic.Settings.resources
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Debug\Morse Translator - Classic.exe.manifest
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Debug\Morse Translator - Classic.application
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.exe.manifest
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Debug\Morse Translator - Classic.application

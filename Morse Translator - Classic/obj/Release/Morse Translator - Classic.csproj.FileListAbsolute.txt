@@ -1,0 +1,12 @@
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Release\Morse Translator - Classic.exe.config
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Release\Morse Translator - Classic.exe
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Release\Morse Translator - Classic.pdb
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse_Translator___Classic.MainForm.resources
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse_Translator___Classic.Properties.Resources.resources
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse_Translator___Classic.Settings.resources
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse Translator - Classic.csproj.GenerateResource.cache
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse Translator - Classic.csproj.CoreCompileInputs.cache
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse Translator - Classic.exe
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\obj\Release\Morse Translator - Classic.pdb
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Release\Morse Translator - Classic.exe.CodeAnalysisLog.xml
+C:\shamil\development\projects\desktop\Morse Translator - Classic\Morse Translator - Classic\bin\Release\Morse Translator - Classic.exe.lastcodeanalysissucceeded

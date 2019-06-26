@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Morse Translator - Classic.exe" version="1.0.0.0" publicKeyToken="35e2c3f8996bc7a7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Morse Translator - Classic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Morse Translator - Classic.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Morse Translator - Classic.exe" size="84920">
+      <assemblyIdentity name="Morse Translator - Classic" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>FODXmQXo3LtKb19VPd0bcLxVbfXS3LDefM4LWf817XI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Morse Translator - Classic.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=MSA-LAPTOP\MSA" issuerKeyHash="5dfa2ad11992305963da21238a6d2e07da86db44" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>YfP0SvCbMTKsI9/KUjPIy0cGCisUzMWWwTfdx7wan/4=</DigestValue></Reference></SignedInfo><SignatureValue>dtVXLbdJ1ttxfBV0DM31msUvtOINaEbPt083t18n8DQOrTlq4VrIotuxzLufJ4dErq/rMqfrxGlypQCBHSImjWBTDtm973GXvmayg/e4REbAScCbhkdAqdE27/KfGNRBTmeNWlKXdnitFrzmaZjif1z38Qz6oLux7Af5+aZbSUA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xuqp19kAbSBBDDZ0xvv925RNLcI3nYZeC2qnTsrcgXP59ipwUej5gCcLGxXdwBDGuYEpvCGa0f0Y7UzDyD75oiuXBDyY4a17QgGwjq5zpN8rn32cKhOji6bAULHaj0ZMrxrqkTn9ZOllXwBn/j0FWVGuyJGQ0zmlaWMAEtEOSpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="fe9f1abcc7dd37c196c5cc142b0a0647cbc83352cadf23ac32319bf04af4f361" Description="" Url=""><as:assemblyIdentity name="Morse Translator - Classic.exe" version="1.0.0.0" publicKeyToken="35e2c3f8996bc7a7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MSA-LAPTOP\MSA</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fkOw6S+8qAYYJJOF2LiPaLLgEIoi3yR2rZdwFuZOYns=</DigestValue></Reference></SignedInfo><SignatureValue>Ln+LTmNwlwr52SrpIyfsdPlYl0Y9FeYq5s/7/VJ1dHVY4C6eSN6Wafn5XIRGD9RAR7XK47PfJ5EL9wXg/xD9Fp3W1qr1RYo4jBknsmxZEQmXJeGR11sof2Q+S+zqFd31URqnnjXGwellurLRVcv3mj6QTa6BN35bRIIAxf7/zqY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xuqp19kAbSBBDDZ0xvv925RNLcI3nYZeC2qnTsrcgXP59ipwUej5gCcLGxXdwBDGuYEpvCGa0f0Y7UzDyD75oiuXBDyY4a17QgGwjq5zpN8rn32cKhOji6bAULHaj0ZMrxrqkTn9ZOllXwBn/j0FWVGuyJGQ0zmlaWMAEtEOSpU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQV5UHoiIXYbhPuLpilYsy3zANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwATQBTAEEALQBMAEEAUABUAE8AUABcAE0AUwBBMB4XDTE5MDYyNjE4NTQwN1oXDTIwMDYyNjAwNTQwN1owJzElMCMGA1UEAx4cAE0AUwBBAC0ATABBAFAAVABPAFAAXABNAFMAQTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxuqp19kAbSBBDDZ0xvv925RNLcI3nYZeC2qnTsrcgXP59ipwUej5gCcLGxXdwBDGuYEpvCGa0f0Y7UzDyD75oiuXBDyY4a17QgGwjq5zpN8rn32cKhOji6bAULHaj0ZMrxrqkTn9ZOllXwBn/j0FWVGuyJGQ0zmlaWMAEtEOSpUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBDc2uFXjrf4rAiU+ChIm9cafYNL7PnxaHZXjUFELuLghz3dXXSpJBAo+FKSysYcMBKsGuiwGgpQh8fIUwBmRgoA68n45EOv6oRO1c/z6Pq3l/l6amwafM1H3uW+TPAPF1gDGOVs95SgaDKE+ZEzf23emPeJGPPK5b9EYNJvfTziA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
